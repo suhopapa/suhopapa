@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### Tech
+.Net developer
 
 
 
